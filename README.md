@@ -1,1 +1,1 @@
-# yandex-mail
+# Яндекс Почта mod
